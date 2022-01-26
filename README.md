@@ -22,3 +22,4 @@ Linuz için:
 git clone yaptıktan sonra git init yaptım gerek yokmuş :)
 
 ![Proje goruntusu](https://i.ibb.co/LhC6xLN/odev1.jpg)
+![gitHub Fork](https://i.ibb.co/jvXKbmr/github-fork.jpg)
